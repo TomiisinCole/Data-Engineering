@@ -106,4 +106,8 @@ the run the following command:
 - weekday (TEXT): Name of week day associated to start_time
 
 
-database.png
+
+<img src="./database.png" alt="certificate" style="zoom:50%;" />
+
+
+
