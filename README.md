@@ -28,7 +28,7 @@ Data engineers are responsible for making data accessible to all the people who 
 
 ## Certificate
 
-<img src="./Certificate.jpg" alt="certificate" style="zoom:50%;" />
+<img src="./Udacity_Cert.JPG" alt="certificate" style="zoom:50%;" />
 
 
 
