@@ -104,3 +104,6 @@ the run the following command:
 - month (INT): Month associated to start_time 
 - year (INT): Year associated to start_time
 - weekday (TEXT): Name of week day associated to start_time
+
+
+database.png
