@@ -21,14 +21,6 @@ The source datasets consist of JSON logs that tell about user activity in the ap
 Log data: s3://udacity-dend/log_data
 Song data: s3://udacity-dend/song_data
 
-## Overview
-This assignment displays core concepts of Apache Airflow.
-create your own custom operators to perform tasks:
-
-- staging the data,
-- filling the data warehouse,
-- and running checks on the data as the final step.
-
 The project template package contains three major components for the project:
 
 - The dag template has all the imports and task templates in place, but the task dependencies have not been set
